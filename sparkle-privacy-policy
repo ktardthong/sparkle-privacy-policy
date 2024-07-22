@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for Sparkle ✨</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Sparkle ✨</h1>
+    <p>This Privacy Policy explains how information about you is collected, used, and disclosed by Sparkle ✨ ("we", "us" or "our"). This Policy applies to information we collect when you use our Chrome extension.</p>
+
+    <h2>Information We Collect</h2>
+    <p>We collect information you provide directly to us. For example, we collect information when you customize settings within the extension, such as your preferred background theme and city for weather updates.</p>
+
+    <h2>Use of Information</h2>
+    <p>We may use the information we collect to:</p>
+    <ul>
+        <li>Provide, maintain, and improve our extension;</li>
+        <li>Personalize the user experience;</li>
+        <li>Monitor and analyze trends, usage, and activities in connection with our extension.</li>
+    </ul>
+
+    <h2>Sharing of Information</h2>
+    <p>We do not share or transfer your personal data to third parties except as described in this Privacy Policy.</p>
+
+    <h2>Your Choices</h2>
+    <p>You can modify the information you provide to us through the settings options within the extension.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us at [your email address].</p>
+</body>
+</html>
